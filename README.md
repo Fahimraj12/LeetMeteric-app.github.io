@@ -15,6 +15,8 @@ LeetMetric is a lightweight web application built using **HTML**, **CSS**, and *
 - CSS3 (with Flexbox/Grid)
 - JavaScript (DOM manipulation, local state)
 
+## File Structure
+
 ## 📸 Screenshots
 - The Screenshots represent how the ui looks likes:
 > ![image](https://github.com/user-attachments/assets/6dc5e173-e8cf-42d7-bc05-68c65d55e078)
