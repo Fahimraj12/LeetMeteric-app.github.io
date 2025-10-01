@@ -16,6 +16,7 @@ LeetMetric is a lightweight web application built using **HTML**, **CSS**, and *
 - JavaScript (DOM manipulation, local state)
 
 ## File Structure
+|--- README
 
 ## 📸 Screenshots
 - The Screenshots represent how the ui looks likes:
