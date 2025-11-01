@@ -27,8 +27,8 @@ LeetMetric is a lightweight web application built using **HTML**, **CSS**, and *
 ### Getting Started (Run Locally)
 - Clone the repository
   ```bash
-  git clone https://github.com/Fahimraj12/Threatre-Ticket-Booking-Site.git
-  cd Threatre-Ticket-Booking-Site
+  git clone https://github.com/Fahimraj12/LeetMeteric-app.github.io.git
+  cd LeetMeteric-app
 
 ## 📸 Screenshots
 - The Screenshots represent how the ui looks likes:
